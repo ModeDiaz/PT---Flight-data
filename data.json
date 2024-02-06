@@ -1,0 +1,904 @@
+{
+  "flights": [
+    {
+      "Flight_ID": "FL001",
+      "Date": "2023-05-05",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 154,
+      "Passengers": 232,
+      "Revenue": 14152
+    },
+    {
+      "Flight_ID": "FL002",
+      "Date": "2023-04-11",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 704,
+      "Passengers": 108,
+      "Revenue": 7344
+    },
+    {
+      "Flight_ID": "FL003",
+      "Date": "2023-11-18",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 244,
+      "Passengers": 160,
+      "Revenue": 13600
+    },
+    {
+      "Flight_ID": "FL004",
+      "Date": "2023-05-02",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 148,
+      "Passengers": 115,
+      "Revenue": 4715
+    },
+    {
+      "Flight_ID": "FL005",
+      "Date": "2023-03-17",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 623,
+      "Passengers": 142,
+      "Revenue": 7810
+    },
+    {
+      "Flight_ID": "FL006",
+      "Date": "2023-07-25",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 110,
+      "Passengers": 220,
+      "Revenue": 19800
+    },
+    {
+      "Flight_ID": "FL007",
+      "Date": "2023-07-16",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 631,
+      "Passengers": 200,
+      "Revenue": 17000
+    },
+    {
+      "Flight_ID": "FL008",
+      "Date": "2023-06-08",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 393,
+      "Passengers": 142,
+      "Revenue": 7384
+    },
+    {
+      "Flight_ID": "FL009",
+      "Date": "2023-03-30",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 178,
+      "Passengers": 242,
+      "Revenue": 12584
+    },
+    {
+      "Flight_ID": "FL010",
+      "Date": "2023-08-07",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 469,
+      "Passengers": 126,
+      "Revenue": 3780
+    },
+    {
+      "Flight_ID": "FL011",
+      "Date": "2023-10-11",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 617,
+      "Passengers": 216,
+      "Revenue": 11016
+    },
+    {
+      "Flight_ID": "FL012",
+      "Date": "2023-07-25",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 668,
+      "Passengers": 248,
+      "Revenue": 10912
+    },
+    {
+      "Flight_ID": "FL013",
+      "Date": "2023-07-14",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 528,
+      "Passengers": 127,
+      "Revenue": 11176
+    },
+    {
+      "Flight_ID": "FL014",
+      "Date": "2023-02-12",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 525,
+      "Passengers": 198,
+      "Revenue": 12474
+    },
+    {
+      "Flight_ID": "FL015",
+      "Date": "2023-05-04",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 220,
+      "Passengers": 135,
+      "Revenue": 6345
+    },
+    {
+      "Flight_ID": "FL016",
+      "Date": "2023-07-02",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 472,
+      "Passengers": 154,
+      "Revenue": 12474
+    },
+    {
+      "Flight_ID": "FL017",
+      "Date": "2023-06-03",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 494,
+      "Passengers": 211,
+      "Revenue": 17935
+    },
+    {
+      "Flight_ID": "FL018",
+      "Date": "2023-09-30",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 598,
+      "Passengers": 154,
+      "Revenue": 9856
+    },
+    {
+      "Flight_ID": "FL019",
+      "Date": "2023-12-29",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 183,
+      "Passengers": 131,
+      "Revenue": 9694
+    },
+    {
+      "Flight_ID": "FL020",
+      "Date": "2023-08-07",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 554,
+      "Passengers": 249,
+      "Revenue": 17679
+    },
+    {
+      "Flight_ID": "FL021",
+      "Date": "2023-04-29",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 139,
+      "Passengers": 107,
+      "Revenue": 6527
+    },
+    {
+      "Flight_ID": "FL022",
+      "Date": "2023-05-26",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 649,
+      "Passengers": 101,
+      "Revenue": 4141
+    },
+    {
+      "Flight_ID": "FL023",
+      "Date": "2023-05-29",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 484,
+      "Passengers": 202,
+      "Revenue": 19998
+    },
+    {
+      "Flight_ID": "FL024",
+      "Date": "2023-10-05",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 134,
+      "Passengers": 212,
+      "Revenue": 12720
+    },
+    {
+      "Flight_ID": "FL025",
+      "Date": "2023-03-16",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 141,
+      "Passengers": 140,
+      "Revenue": 13720
+    },
+    {
+      "Flight_ID": "FL026",
+      "Date": "2023-09-06",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 303,
+      "Passengers": 238,
+      "Revenue": 13328
+    },
+    {
+      "Flight_ID": "FL027",
+      "Date": "2023-04-23",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 137,
+      "Passengers": 102,
+      "Revenue": 8568
+    },
+    {
+      "Flight_ID": "FL028",
+      "Date": "2023-10-05",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 522,
+      "Passengers": 191,
+      "Revenue": 18718
+    },
+    {
+      "Flight_ID": "FL029",
+      "Date": "2023-08-31",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 236,
+      "Passengers": 199,
+      "Revenue": 17512
+    },
+    {
+      "Flight_ID": "FL030",
+      "Date": "2023-02-28",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 606,
+      "Passengers": 225,
+      "Revenue": 7425
+    },
+    {
+      "Flight_ID": "FL031",
+      "Date": "2023-04-23",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 593,
+      "Passengers": 203,
+      "Revenue": 11977
+    },
+    {
+      "Flight_ID": "FL032",
+      "Date": "2023-04-13",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 495,
+      "Passengers": 103,
+      "Revenue": 3193
+    },
+    {
+      "Flight_ID": "FL033",
+      "Date": "2023-04-05",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 620,
+      "Passengers": 200,
+      "Revenue": 20000
+    },
+    {
+      "Flight_ID": "FL034",
+      "Date": "2023-10-14",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 690,
+      "Passengers": 215,
+      "Revenue": 8600
+    },
+    {
+      "Flight_ID": "FL035",
+      "Date": "2023-01-06",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 331,
+      "Passengers": 167,
+      "Revenue": 15197
+    },
+    {
+      "Flight_ID": "FL036",
+      "Date": "2023-03-07",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 579,
+      "Passengers": 103,
+      "Revenue": 4738
+    },
+    {
+      "Flight_ID": "FL037",
+      "Date": "2023-08-04",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 661,
+      "Passengers": 168,
+      "Revenue": 8736
+    },
+    {
+      "Flight_ID": "FL038",
+      "Date": "2023-07-10",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 200,
+      "Passengers": 186,
+      "Revenue": 15810
+    },
+    {
+      "Flight_ID": "FL039",
+      "Date": "2023-11-29",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 206,
+      "Passengers": 143,
+      "Revenue": 8008
+    },
+    {
+      "Flight_ID": "FL040",
+      "Date": "2023-08-05",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 275,
+      "Passengers": 183,
+      "Revenue": 14640
+    },
+    {
+      "Flight_ID": "FL041",
+      "Date": "2023-10-01",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 142,
+      "Passengers": 197,
+      "Revenue": 18912
+    },
+    {
+      "Flight_ID": "FL042",
+      "Date": "2023-10-28",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 367,
+      "Passengers": 204,
+      "Revenue": 17136
+    },
+    {
+      "Flight_ID": "FL043",
+      "Date": "2023-05-26",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 654,
+      "Passengers": 141,
+      "Revenue": 11985
+    },
+    {
+      "Flight_ID": "FL044",
+      "Date": "2023-04-15",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 692,
+      "Passengers": 206,
+      "Revenue": 13390
+    },
+    {
+      "Flight_ID": "FL045",
+      "Date": "2023-11-28",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 531,
+      "Passengers": 124,
+      "Revenue": 7812
+    },
+    {
+      "Flight_ID": "FL046",
+      "Date": "2023-04-05",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 569,
+      "Passengers": 127,
+      "Revenue": 6223
+    },
+    {
+      "Flight_ID": "FL047",
+      "Date": "2023-02-01",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 510,
+      "Passengers": 234,
+      "Revenue": 20358
+    },
+    {
+      "Flight_ID": "FL048",
+      "Date": "2023-03-27",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 129,
+      "Passengers": 239,
+      "Revenue": 22466
+    },
+    {
+      "Flight_ID": "FL049",
+      "Date": "2023-09-25",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 622,
+      "Passengers": 122,
+      "Revenue": 7564
+    },
+    {
+      "Flight_ID": "FL050",
+      "Date": "2023-02-05",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 256,
+      "Passengers": 183,
+      "Revenue": 13908
+    },
+    {
+      "Flight_ID": "FL051",
+      "Date": "2023-09-16",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 257,
+      "Passengers": 135,
+      "Revenue": 13500
+    },
+    {
+      "Flight_ID": "FL052",
+      "Date": "2023-08-17",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 391,
+      "Passengers": 110,
+      "Revenue": 9680
+    },
+    {
+      "Flight_ID": "FL053",
+      "Date": "2023-02-12",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 576,
+      "Passengers": 164,
+      "Revenue": 13120
+    },
+    {
+      "Flight_ID": "FL054",
+      "Date": "2023-03-10",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 598,
+      "Passengers": 115,
+      "Revenue": 6325
+    },
+    {
+      "Flight_ID": "FL055",
+      "Date": "2023-02-03",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 387,
+      "Passengers": 130,
+      "Revenue": 7020
+    },
+    {
+      "Flight_ID": "FL056",
+      "Date": "2023-11-10",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 589,
+      "Passengers": 139,
+      "Revenue": 5143
+    },
+    {
+      "Flight_ID": "FL057",
+      "Date": "2023-04-30",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 416,
+      "Passengers": 229,
+      "Revenue": 7099
+    },
+    {
+      "Flight_ID": "FL058",
+      "Date": "2023-01-23",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 397,
+      "Passengers": 146,
+      "Revenue": 11096
+    },
+    {
+      "Flight_ID": "FL059",
+      "Date": "2023-07-30",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 64,
+      "Passengers": 167,
+      "Revenue": 14696
+    },
+    {
+      "Flight_ID": "FL060",
+      "Date": "2023-05-15",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 541,
+      "Passengers": 176,
+      "Revenue": 16192
+    },
+    {
+      "Flight_ID": "FL061",
+      "Date": "2023-09-17",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 655,
+      "Passengers": 228,
+      "Revenue": 18924
+    },
+    {
+      "Flight_ID": "FL062",
+      "Date": "2023-11-25",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 601,
+      "Passengers": 140,
+      "Revenue": 9800
+    },
+    {
+      "Flight_ID": "FL063",
+      "Date": "2023-08-17",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 324,
+      "Passengers": 207,
+      "Revenue": 14697
+    },
+    {
+      "Flight_ID": "FL064",
+      "Date": "2023-07-21",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 288,
+      "Passengers": 195,
+      "Revenue": 9555
+    },
+    {
+      "Flight_ID": "FL065",
+      "Date": "2023-04-15",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 432,
+      "Passengers": 151,
+      "Revenue": 14345
+    },
+    {
+      "Flight_ID": "FL066",
+      "Date": "2023-08-18",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 604,
+      "Passengers": 243,
+      "Revenue": 9963
+    },
+    {
+      "Flight_ID": "FL067",
+      "Date": "2023-09-30",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 329,
+      "Passengers": 155,
+      "Revenue": 11470
+    },
+    {
+      "Flight_ID": "FL068",
+      "Date": "2023-11-09",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 424,
+      "Passengers": 231,
+      "Revenue": 10857
+    },
+    {
+      "Flight_ID": "FL069",
+      "Date": "2023-01-17",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 193,
+      "Passengers": 176,
+      "Revenue": 16896
+    },
+    {
+      "Flight_ID": "FL070",
+      "Date": "2023-10-28",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 65,
+      "Passengers": 218,
+      "Revenue": 17222
+    },
+    {
+      "Flight_ID": "FL071",
+      "Date": "2023-04-16",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 644,
+      "Passengers": 214,
+      "Revenue": 6634
+    },
+    {
+      "Flight_ID": "FL072",
+      "Date": "2023-09-05",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 248,
+      "Passengers": 238,
+      "Revenue": 7616
+    },
+    {
+      "Flight_ID": "FL073",
+      "Date": "2023-02-14",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 582,
+      "Passengers": 239,
+      "Revenue": 9799
+    },
+    {
+      "Flight_ID": "FL074",
+      "Date": "2023-02-03",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 166,
+      "Passengers": 241,
+      "Revenue": 10845
+    },
+    {
+      "Flight_ID": "FL075",
+      "Date": "2023-05-25",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 93,
+      "Passengers": 142,
+      "Revenue": 6532
+    },
+    {
+      "Flight_ID": "FL076",
+      "Date": "2023-05-11",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 80,
+      "Passengers": 113,
+      "Revenue": 7119
+    },
+    {
+      "Flight_ID": "FL077",
+      "Date": "2023-03-11",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 334,
+      "Passengers": 164,
+      "Revenue": 12792
+    },
+    {
+      "Flight_ID": "FL078",
+      "Date": "2023-05-17",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 174,
+      "Passengers": 111,
+      "Revenue": 6105
+    },
+    {
+      "Flight_ID": "FL079",
+      "Date": "2023-02-19",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 222,
+      "Passengers": 180,
+      "Revenue": 15300
+    },
+    {
+      "Flight_ID": "FL080",
+      "Date": "2023-04-22",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 521,
+      "Passengers": 193,
+      "Revenue": 5983
+    },
+    {
+      "Flight_ID": "FL081",
+      "Date": "2023-07-21",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 277,
+      "Passengers": 204,
+      "Revenue": 19584
+    },
+    {
+      "Flight_ID": "FL082",
+      "Date": "2023-05-22",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "JFK",
+      "Duration_Minutes": 506,
+      "Passengers": 132,
+      "Revenue": 11352
+    },
+    {
+      "Flight_ID": "FL083",
+      "Date": "2023-07-29",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 593,
+      "Passengers": 207,
+      "Revenue": 17802
+    },
+    {
+      "Flight_ID": "FL084",
+      "Date": "2023-10-02",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 326,
+      "Passengers": 225,
+      "Revenue": 7875
+    },
+    {
+      "Flight_ID": "FL085",
+      "Date": "2023-05-05",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 619,
+      "Passengers": 176,
+      "Revenue": 7744
+    },
+    {
+      "Flight_ID": "FL086",
+      "Date": "2023-02-09",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 406,
+      "Passengers": 194,
+      "Revenue": 8536
+    },
+    {
+      "Flight_ID": "FL087",
+      "Date": "2023-06-11",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 596,
+      "Passengers": 195,
+      "Revenue": 10140
+    },
+    {
+      "Flight_ID": "FL088",
+      "Date": "2023-05-21",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 336,
+      "Passengers": 138,
+      "Revenue": 8556
+    },
+    {
+      "Flight_ID": "FL089",
+      "Date": "2023-07-08",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 429,
+      "Passengers": 215,
+      "Revenue": 18705
+    },
+    {
+      "Flight_ID": "FL090",
+      "Date": "2023-11-06",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 213,
+      "Passengers": 219,
+      "Revenue": 14892
+    },
+    {
+      "Flight_ID": "FL091",
+      "Date": "2023-10-25",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 460,
+      "Passengers": 240,
+      "Revenue": 15120
+    },
+    {
+      "Flight_ID": "FL092",
+      "Date": "2023-12-14",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 221,
+      "Passengers": 234,
+      "Revenue": 21996
+    },
+    {
+      "Flight_ID": "FL093",
+      "Date": "2023-09-02",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 341,
+      "Passengers": 216,
+      "Revenue": 21384
+    },
+    {
+      "Flight_ID": "FL094",
+      "Date": "2023-05-22",
+      "Departure_Airport": "LAX",
+      "Arrival_Airport": "SEA",
+      "Duration_Minutes": 85,
+      "Passengers": 224,
+      "Revenue": 15904
+    },
+    {
+      "Flight_ID": "FL095",
+      "Date": "2023-12-16",
+      "Departure_Airport": "ATL",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 189,
+      "Passengers": 189,
+      "Revenue": 11529
+    },
+    {
+      "Flight_ID": "FL096",
+      "Date": "2023-05-27",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 518,
+      "Passengers": 237,
+      "Revenue": 15642
+    },
+    {
+      "Flight_ID": "FL097",
+      "Date": "2023-12-31",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 241,
+      "Passengers": 205,
+      "Revenue": 13940
+    },
+    {
+      "Flight_ID": "FL098",
+      "Date": "2023-11-17",
+      "Departure_Airport": "ORD",
+      "Arrival_Airport": "DEN",
+      "Duration_Minutes": 518,
+      "Passengers": 187,
+      "Revenue": 11968
+    },
+    {
+      "Flight_ID": "FL099",
+      "Date": "2023-03-21",
+      "Departure_Airport": "SFO",
+      "Arrival_Airport": "SFO",
+      "Duration_Minutes": 357,
+      "Passengers": 210,
+      "Revenue": 15960
+    },
+    {
+      "Flight_ID": "FL100",
+      "Date": "2023-06-23",
+      "Departure_Airport": "JFK",
+      "Arrival_Airport": "LAX",
+      "Duration_Minutes": 640,
+      "Passengers": 209,
+      "Revenue": 13376
+    }
+  ]
+}
