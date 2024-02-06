@@ -61,8 +61,8 @@ def invalid_log_data(tmp_path):
     return str(file_path)
 
 
-def test_load_json_data():
-    data = load_json_data(JSON_FILE_PATH)
+def test_load_json_data(json_data):
+    data = load_json_data(json_data)
     assert isinstance(data, list)
 
 def test_load_json_data_empty(empty_json_data):
@@ -73,8 +73,8 @@ def test_load_json_data_invalid(invalid_json_data):
     data = load_json_data(invalid_json_data)
     assert data == []
 
-def test_load_csv_data():
-    data = load_csv_data(CSV_FILE_PATH)
+def test_load_csv_data(csv_data):
+    data = load_csv_data(csv_data)
     assert isinstance(data, list)
 
 def test_load_csv_data_empty(empty_csv_data):
@@ -85,8 +85,8 @@ def test_load_csv_data_invalid(invalid_csv_data):
     data = load_csv_data(invalid_csv_data)
     assert data == []
 
-def test_parse_log_data():
-    data = parse_log_data(LOG_FILE_PATH)
+def test_parse_log_data(log_data):
+    data = parse_log_data(log_data)
     assert isinstance(data, list)
 
 def test_parse_log_data_empty(empty_log_data):
@@ -106,3 +106,8 @@ def test_calculate_revenue_per_passenger(json_data, csv_data, log_data):
     calculate_revenue_per_passenger(combined_data)
     for flight in combined_data:
         assert "Revenue_Per_Passenger" in flight
+
+def test_calculate_revenue_per_passenger_for_FL001(json_data, csv_data, log_data):
+    combined_data = combine_data(json_data, csv_data, log_data)
+    calculate_revenue_per_passenger(combined_data)
+    assert combined_data["Flight_ID" == "FL001"]["Revenue_Per_Passenger"] == 61

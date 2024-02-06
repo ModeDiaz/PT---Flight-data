@@ -76,9 +76,6 @@ def combine_data(json_data: List[Dict[str, Any]], csv_data: List[Dict[str, Any]]
 
         return combined_data
     
-    except KeyError as ke:
-        logging.error(f"Error en la combinación del data: {ke}")
-        return []
     except Exception as e:
         logging.error(f"Error en la combinación del data: {e}")
         return []
@@ -90,10 +87,10 @@ def calculate_revenue_per_passenger(flights_data: List[Dict[str, Any]]) -> None:
             duration_minutes = int(flight.get("Duration_Minutes", 0)) if flight.get("Duration_Minutes", "") != "" else 0
             revenue = float(flight.get("Revenue", 0))
 
-            if passengers != 0 and duration_minutes != 0:
+            if passengers != 0:
                 flight["Revenue_Per_Passenger"] = revenue / passengers
             else:
                 flight["Revenue_Per_Passenger"] = 0
     
     except Exception as e:
-        logging.error(f"Error al calcular el valor por pasajero: {e}")
+        logging.debug(f"Hubo un problema al calcular el valor por pasajero: {e}")
