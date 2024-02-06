@@ -27,10 +27,10 @@ En esta función de calcular los ingresos por pasajero le pedimos que intente co
 
 --------->>Ejecución del programa y de los test unitarios:
   Principalmente tenemos que instalar la librería Pytest
-  pip install pytest
+  ```pip install pytest```
   que es la única que no viene con la instalación de Python. 
   El siguiente paso es ejecutar el script de flight_data_module.py en la terminal
-  python flight_data_module.py
+  ```python flight_data_module.py```
   para cargar los datos de los vuelos desde los archivos JSON, CSV y LOG, la combinación de ellos y el calculo de ingresos por pasajero.
 
 Para empezar con las pruebas unitarias ponemos en terminal
